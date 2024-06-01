@@ -41,7 +41,7 @@ This is a simple, interactive Password Strength Analyzer that evaluates the stre
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/parmindrsingh97/Password-Strength-Analizer/blob/main/README.md#license).
 
 ## Contact
 
