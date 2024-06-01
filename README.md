@@ -48,5 +48,3 @@ This project is licensed under the [MIT License](https://github.com/parmindrsing
 If you have any questions or suggestions, please open an issue or contact the repository owner.
 
 ## Enjoy using the Password Strength Analyzer! 😊
-   ```bash
-   Replace `yourusername` with your actual GitHub username in the clone URL. This `README.md` file provides an overview of the project, installation.
