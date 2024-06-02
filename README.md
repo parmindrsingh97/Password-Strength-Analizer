@@ -2,6 +2,12 @@
 
 This is a simple, interactive Password Strength Analyzer that evaluates the strength of a password based on various criteria such as length, complexity, and character variety. The interface is visually appealing, featuring a gradient background and dynamic feedback.
 
+## Technologies Used
+
+- **HTML5:** Structure of the application.
+- **CSS3:** Styling, including advanced gradient backgrounds and animations.
+- **JavaScript:** Logic for password strength evaluation and real-time feedback.
+
 ## Features
 
 - **Real-time Password Strength Evaluation:** The analyzer updates the password strength meter in real-time as the user types.
@@ -45,6 +51,6 @@ This project is licensed under the [MIT License](https://github.com/parmindrsing
 
 ## Contact
 
-If you have any questions or suggestions, please open an issue or contact the repository owner.
+If you have any questions or suggestions, please open an issue or contact with me.
 
 ## Enjoy using the Password Strength Analyzer! 😊
