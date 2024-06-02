@@ -1,4 +1,4 @@
-# Password-Strength-Analizer
+# Password-Strength-Analyzer
 
 This is a simple, interactive Password Strength Analyzer that evaluates the strength of a password based on various criteria such as length, complexity, and character variety. The interface is visually appealing, featuring a gradient background and dynamic feedback.
 
