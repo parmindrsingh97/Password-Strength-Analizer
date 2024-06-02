@@ -13,7 +13,7 @@ This is a simple, interactive Password Strength Analyzer that evaluates the stre
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/password-strength-analyzer.git
+   git clone https://github.com/parmindrsingh97/password-strength-analyzer.git
 
 2. **Navigate to the project directory:**
    ```bash
